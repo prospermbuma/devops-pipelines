@@ -1,2 +1,2 @@
 # DEVOPS PIPELINES
-Implementing DevOps pipelines.
+Implementing CI pipelines.
